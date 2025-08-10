@@ -1,9 +1,9 @@
 # Team of Researchers
-1. Jacinta Chioma Odirichukwu
-2. Precious Kelechukwu Chika-Ugada
-3. Reginald Nnadozie Nnamdi
-4. Chigozie Raphael Dunu
-5. Simon Peter Chimaobi Odirichukwu 
+1. Chigozie Raphael Dunu
+2. Jacinta Chioma Odirichukwu
+3. Precious Kelechukwu Chika-Ugada
+   
+   
 
 # Aim and Objectives
 The aim is to design and develop Igbo Text Named Identity Recognition (NER) System using Natural Language Processing Algorithms.
