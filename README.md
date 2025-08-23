@@ -1,7 +1,9 @@
 # Team of Researchers
-1. Chigozie Raphael Dunu
-2. Jacinta Chioma Odirichukwu
-3. Precious Kelechukwu Chika-Ugada
+1. DUNU  CHIGOZIE RAPHAEL
+2. DIALA NMESOMA FELIX
+3. DIALAEME-DIOLULU SAMUEL CHIZITARAM
+4. Jacinta Chioma Odirichukwu
+5. Precious Kelechukwu Chika-Ugada
    
    
 
@@ -20,3 +22,7 @@ This study is guided by the following questions:
 2. What are the best preprocessing techniques for preparing Igbo text for NER tasks? 
 3. How can an NER system be developed to accurately identify and classify the named entities in Igbo text? 
 4. How effective is this NER system when tested using standard metrics such as F-score, precision, accuracy and recall?
+  
+
+ **[Live Demo on Streamlit](https://igbo-ner-search.streamlit.app/)**  
+**[Model on Hugging Face](https://huggingface.co/preshnkelsie/igbo-ner**  
